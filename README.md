@@ -1,23 +1,27 @@
 <img src=".\Octacat-Alanes.png" alt="" min-width="400px" max-width="450px" width="450px" align="right">
 
-<p align="left"> 
-  ### Olá! Eu Sou {Alanes Gomes}!!😍 <br>
-  💭  Sou Uma garota Alegre com uma imensa criatividade e aptidão para resolver problemas e conflitos. 
-   Atualmente, estou cursando Análise e Desenvolvimento de Sistemas... e desejo a você, Boas Vindas ao meu mundo! <>
-  
-</p>
+  ## Olá! Eu Sou Alanes Gomes!!😍
 
-<p align="left">
-  🦄  ###Linguagens:
+Atualmente eu estou... 
 
-![habilidade](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![habilidade](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas.
+- 🌱 Aprendendo mais sobre {C++ , lógica de programação, vetores e utilização de IA}.
+
+##   💭 Minhas Skills
+
+**Aplicações e dados**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![habilidade](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</p>
 
 <p align="left">
-  💌 ###Entre em contato comigo através do: ⤵️
+  💌 ##Entre em contato comigo através do: ⤵️
 </p>
 
 <p align="left">
