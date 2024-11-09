@@ -33,6 +33,8 @@ Atualmente eu estou...
 
 
 
+![Snake animation](https://github.com/alanesg/alanesg/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
