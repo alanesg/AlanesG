@@ -20,11 +20,8 @@ Atualmente eu estou...
 ![habilidade](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-<p align="left">
-  💌 ##Entre em contato comigo através do: ⤵️
-</p>
+   ## 💌 Entre em contato comigo através do: ⤵️
 
-<p align="left">
   <a href="mailto:alanesGsilva@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/alanesgomes/" title="LinkedIn">
