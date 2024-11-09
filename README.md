@@ -1,7 +1,8 @@
-<img src=".\Octacat-Alanes.png" alt="" min-width="400px" max-width="400px" width="400px" align="right">
+<img src=".\Octacat-Alanes.png" alt="" min-width="400px" max-width="450px" width="450px" align="right">
 
 <p align="left"> 
-  Olá! Eu Sou Alanes Gomes, Uma garota Alegre com uma imensa criatividade com aptidão para resolver problemas e conflitos 😍 <strong>sua stack</strong>.<br>
+  <strong>Olá! Eu Sou Alanes Gomes!!😍</strong>.<br>
+  Sou Uma garota Alegre com uma imensa criatividade e aptidão para resolver problemas e conflitos. <br>
   Atualmente, estou cursando Análise e Desenvolvimento de Sistemas... e desejo a você, Boas Vindas ao meu mundo! <>
   
 </p>
