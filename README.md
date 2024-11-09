@@ -28,7 +28,7 @@
 
 
 
-![Snake animation](https://github.com/alanesg/alanesg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alanesg/alanesG/blob/output/github-contribution-grid-snake.svg)
 
 
 
