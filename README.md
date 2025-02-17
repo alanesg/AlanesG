@@ -6,7 +6,7 @@ Atualmente eu estou...
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas.
-- 🌱 Aprendendo mais sobre {C++ , lógica de programação, vetores e utilização de IA}.
+- 🌱 Aprendendo mais sobre {Java, C++ , lógica de programação, vetores e utilização de IA}.
 
 ##   💭 Minhas Skills
 
@@ -14,6 +14,7 @@ Atualmente eu estou...
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
